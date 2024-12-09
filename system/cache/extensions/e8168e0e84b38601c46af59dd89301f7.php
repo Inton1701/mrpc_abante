@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:4:{i:0;s:15:"paypal_commerce";i:1;s:8:"cardknox";i:2;s:6:"stripe";i:3;s:11:"default_cod";}

@@ -1,0 +1,341 @@
+2024-12-08 16:44:48 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantes using root@localhost
+Unknown database 'abantes'
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 254
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 272
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 210
+	#4 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 51
+
+2024-12-08 16:45:33 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantes using root@localhost
+Unknown database 'abantes'
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 254
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 272
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 210
+	#4 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 51
+
+2024-12-08 16:45:38 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantes using root@localhost
+Unknown database 'abantes'
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 254
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 272
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 210
+	#4 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 51
+
+2024-12-08 16:48:46 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abante using root@localhost
+Unknown database 'abante'
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 254
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 272
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 210
+	#4 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 51
+
+2024-12-08 16:48:55 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abante using root@localhost
+Unknown database 'abante'
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 254
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 272
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 210
+	#4 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 51
+
+2024-12-08 16:48:58 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abante using root@localhost
+Unknown database 'abante'
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 254
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 272
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 210
+	#4 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 51
+
+2024-12-08 16:50:34 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abante using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 16:50:40 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abante using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 16:50:53 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecart using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 16:51:54 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecarts using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 16:51:57 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecarts using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 16:52:09 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecarts using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 16:52:10 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecarts using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 16:52:11 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecarts using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 17:00:26 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecart using root@localhost
+Unknown database 'abantecart'
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 254
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 272
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 210
+	#4 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 51
+
+2024-12-08 17:01:00 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecarts using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-08 17:01:30 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to abantecarts using root@localhost
+Access denied for user 'root'@'localhost' (using password: YES)
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 85
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 197
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 59
+	#4 C:\xampp\htdocs\public_html\core\engine\dispatcher.php on line 306
+
+2024-12-09 1:16:40 - App Error:  AbanteCart core v.1.4.0 Cannot establish database connection to CartAbante using root@localhost
+Unknown database 'cartabante'
+Trace:
+	#0 C:\xampp\htdocs\public_html\core\lib\db.php on line 64
+	#1 C:\xampp\htdocs\public_html\install\model\install.php on line 254
+	#2 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 272
+	#3 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 210
+	#4 C:\xampp\htdocs\public_html\install\controller\pages\install.php on line 51
+
+2024-12-09 1:38:23 - load error:  AbanteCart core v.1.4.0 Error: Could not load model extension/paypal_commerce
+Trace: 
+#0 C:\xampp\htdocs\public_html\core\engine\controller.php:260
+#1 C:\xampp\htdocs\public_html\extensions\paypal_commerce\core\paypal_commerce_hooks.php:27
+#2 C:\xampp\htdocs\public_html\core\engine\extensions.php:167
+#3 C:\xampp\htdocs\public_html\core\engine\extensions.php:195
+#4 C:\xampp\htdocs\public_html\core\engine\extensions.php:1188
+#5 C:\xampp\htdocs\public_html\core\engine\extensions.php:384
+#6 C:\xampp\htdocs\public_html\admin\controller\pages\extension\extensions.php:319
+#7 C:\xampp\htdocs\public_html\core\engine\dispatcher.php:306
+#8 C:\xampp\htdocs\public_html\core\engine\dispatcher.php:341
+#9 C:\xampp\htdocs\public_html\core\engine\page.php:110
+#10 C:\xampp\htdocs\public_html\core\engine\router.php:204
+#11 C:\xampp\htdocs\public_html\core\engine\router.php:86
+#12 C:\xampp\htdocs\public_html\index.php:97
+ in <b>C:\xampp\htdocs\public_html\core\engine\loader.php</b> on line <b>126</b>
+2024-12-09 1:40:12 - load error:  AbanteCart core v.1.4.0 Error: Could not load model extension/paypal_commerce
+Trace: 
+#0 C:\xampp\htdocs\public_html\core\engine\controller.php:260
+#1 C:\xampp\htdocs\public_html\extensions\paypal_commerce\core\paypal_commerce_hooks.php:27
+#2 C:\xampp\htdocs\public_html\core\engine\extensions.php:167
+#3 C:\xampp\htdocs\public_html\core\engine\extensions.php:195
+#4 C:\xampp\htdocs\public_html\core\engine\extensions.php:1188
+#5 C:\xampp\htdocs\public_html\core\engine\extensions.php:384
+#6 C:\xampp\htdocs\public_html\admin\controller\pages\extension\extensions.php:319
+#7 C:\xampp\htdocs\public_html\core\engine\dispatcher.php:306
+#8 C:\xampp\htdocs\public_html\core\engine\dispatcher.php:341
+#9 C:\xampp\htdocs\public_html\core\engine\page.php:110
+#10 C:\xampp\htdocs\public_html\core\engine\router.php:204
+#11 C:\xampp\htdocs\public_html\core\engine\router.php:86
+#12 C:\xampp\htdocs\public_html\index.php:97
+ in <b>C:\xampp\htdocs\public_html\core\engine\loader.php</b> on line <b>126</b>
+2024-12-09 1:41:24 - load error:  AbanteCart core v.1.4.0 Error: Could not load model extension/paypal_commerce
+Trace: 
+#0 C:\xampp\htdocs\public_html\core\engine\controller.php:260
+#1 C:\xampp\htdocs\public_html\extensions\paypal_commerce\core\paypal_commerce_hooks.php:27
+#2 C:\xampp\htdocs\public_html\core\engine\extensions.php:167
+#3 C:\xampp\htdocs\public_html\core\engine\extensions.php:195
+#4 C:\xampp\htdocs\public_html\core\engine\extensions.php:1188
+#5 C:\xampp\htdocs\public_html\core\engine\extensions.php:384
+#6 C:\xampp\htdocs\public_html\admin\controller\pages\extension\extensions.php:319
+#7 C:\xampp\htdocs\public_html\core\engine\dispatcher.php:306
+#8 C:\xampp\htdocs\public_html\core\engine\dispatcher.php:341
+#9 C:\xampp\htdocs\public_html\core\engine\page.php:110
+#10 C:\xampp\htdocs\public_html\core\engine\router.php:204
+#11 C:\xampp\htdocs\public_html\core\engine\router.php:86
+#12 C:\xampp\htdocs\public_html\index.php:97
+ in <b>C:\xampp\htdocs\public_html\core\engine\loader.php</b> on line <b>126</b>
+2024-12-09 1:48:15 - AMail. transport: Symfony\Component\Mailer\Transport\Smtp\SmtpTransport: Connection could not be established with host "localhost:25": stream_socket_client(): Unable to connect to localhost:25 (No connection could be made because the target machine actively refused it)
+2024-12-09 4:33:07 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code PHP not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 4:42:42 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:42:52 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:42:57 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:45:51 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:45:51 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:45:57 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:45:57 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:45:58 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:45:58 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:45:59 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:45:59 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:48:39 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:48:39 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:48:44 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:48:44 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:48:45 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:48:45 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:48:49 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:48:49 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:48:50 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:48:50 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:49:17 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:49:17 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:49:18 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:49:18 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:50:45 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:50:45 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:50:46 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:50:46 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:50:55 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:50:55 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:50:55 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:50:55 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:51:31 - ACurrency Error: tried to convert into inaccessible currency! Currency code is PHP
+2024-12-09 4:51:31 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:51:32 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:51:32 - ACurrency Error: tried to convert from inaccessible currency! Currency code is PHP
+2024-12-09 4:54:26 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:54:33 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:56:37 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:56:42 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:58:57 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:59:08 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 4:59:10 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 5:00:49 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 5:01:03 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 5:02:39 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 5:02:44 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 6:32:28 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code EUR not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 6:32:28 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code GBP not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 6:32:28 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code PHP not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 6:36:07 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code EUR not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 6:36:07 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code GBP not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 6:36:07 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code PHP not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 7:21:57 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 7:22:05 - App Warning:  AbanteCart core v.1.4.0 Error: Cannot load image C:/xampp/htdocs/mrpc_abante\resources\image/no_image.jpg . File does not exist. in C:\xampp\htdocs\mrpc_abante\core\lib\image.php on line 54
+2024-12-09 8:32:42 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code EUR not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 8:32:42 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code GBP not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
+2024-12-09 8:32:42 - App Error:  AbanteCart core v.1.4.0 Currency Auto Updater Warning: Currency rate code PHP not updated.
+Trace:
+	#0 C:\xampp\htdocs\mrpc_abante\admin\model\localisation\currency.php on line 255
+	#1 C:\xampp\htdocs\mrpc_abante\admin\controller\pages\index\home.php on line 315
+	#2 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 306
+	#3 C:\xampp\htdocs\mrpc_abante\core\engine\dispatcher.php on line 341
+	#4 C:\xampp\htdocs\mrpc_abante\core\engine\page.php on line 110
+
